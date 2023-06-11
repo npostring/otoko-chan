@@ -1,0 +1,4 @@
+pretty_midi==0.2.10
+pychord==1.2.0
+discord.py[voice]==2.2.3
+toml==0.10.2
